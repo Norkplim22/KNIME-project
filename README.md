@@ -1,6 +1,6 @@
 ## Description
 
-KNIME-project, model prediction for housing price predictiction
+KNIME-project, model prediction for housing price prediction
 
 ## Details
 
