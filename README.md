@@ -8,3 +8,6 @@ Building a model in KNIME to predict housing prices in California using the Cali
 Data Understanding,
 Data Preparation,   Modeling   Evaluation,  Deployment. 
 
+## Author
+
+Linda Adzigbli
